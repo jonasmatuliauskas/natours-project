@@ -1,2 +1,7 @@
-# natours-project
-The project was created using HTML, CSS/SASS technologies. The project was developed while studying online, a course by "Udemy".
+<img src="img/logo-green-small-2x.png">
+
+# How to install and run project:
+    $ git clone <project>
+    $ cd path/to/<project>
+    $ npm install 
+    $ npm start
